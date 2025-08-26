@@ -22,7 +22,8 @@ OS : Windows10
 
 按下空白鍵發射弓箭
 
-<img width="491" height="499" alt="image" src="https://github.com/user-attachments/assets/38c0c9cf-b7c1-4e9a-9415-4393b473db34" />
+<img width="494" height="502" alt="image" src="https://github.com/user-attachments/assets/4fca2370-b897-40b7-9409-3c7cb09dd3ff" />
+
 
 =================================
 
