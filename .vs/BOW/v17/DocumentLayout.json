@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KuLee COM\\Desktop\\BOW_20230107\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910C58E3-2762-4C2E-B01E-FD76252239EF}|BOW\\BOW.csproj|c:\\users\\kulee com\\desktop\\bow_20230107\\bow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{910C58E3-2762-4C2E-B01E-FD76252239EF}|BOW\\BOW.csproj|solutionrelative:bow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\KuLee COM\\Desktop\\BOW_20230107\\BOW\\Form1.cs",
+              "RelativeDocumentMoniker": "BOW\\Form1.cs",
+              "ToolTip": "C:\\Users\\KuLee COM\\Desktop\\BOW_20230107\\BOW\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "BOW\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:27:33.188Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
