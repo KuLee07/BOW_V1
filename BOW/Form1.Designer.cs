@@ -531,7 +531,8 @@ namespace BOW
             // 
             // Form1
             // 
-            AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
+            AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             ClientSize = new System.Drawing.Size(482, 453);
             Controls.Add(txtLeftEnemy);
             Controls.Add(TeachPanel);

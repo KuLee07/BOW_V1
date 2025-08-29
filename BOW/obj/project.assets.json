@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KuLee COM\\Desktop\\BOW_20230107\\BOW\\BOW.csproj",
+      "projectUniqueName": "C:\\Users\\KuLee COM\\Desktop\\新增資料夾\\BOW_V1\\BOW\\BOW.csproj",
       "projectName": "BOW",
-      "projectPath": "C:\\Users\\KuLee COM\\Desktop\\BOW_20230107\\BOW\\BOW.csproj",
+      "projectPath": "C:\\Users\\KuLee COM\\Desktop\\新增資料夾\\BOW_V1\\BOW\\BOW.csproj",
       "packagesPath": "C:\\Users\\KuLee COM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KuLee COM\\Desktop\\BOW_20230107\\BOW\\obj\\",
+      "outputPath": "C:\\Users\\KuLee COM\\Desktop\\新增資料夾\\BOW_V1\\BOW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

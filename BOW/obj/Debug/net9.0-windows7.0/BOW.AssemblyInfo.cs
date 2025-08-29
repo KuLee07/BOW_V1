@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BOW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+880a37896fc7e641c70f2daf66105c351d788e51")]
 [assembly: System.Reflection.AssemblyProductAttribute("BOW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BOW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
